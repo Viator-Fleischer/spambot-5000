@@ -23,7 +23,7 @@ Pretty simply, thanks for asking.
   
 - after all that's done, you press "Start" or "Stop", depending on what you're currently doing.
 
--it then begins to post the comments about every 3 seconds until you make it stop.
+- it then begins to post the comments about every 3 seconds until you make it stop.
 
 And that's all folks!
 
@@ -40,7 +40,7 @@ It's using undetected chromedriver, so your browsers shouldn't be able to preven
 I used the following Python packages in my setup:
 
 Package                   Version
-------------------------- ------------
+
 altgraph                  0.17.3
 attrs                     23.1.0
 certifi                   2023.5.7
